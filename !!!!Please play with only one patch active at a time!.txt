@@ -1,0 +1,1 @@
+If you patch multiple onto the same rom, any issues that arise will be your own fault, and will not be fixed.

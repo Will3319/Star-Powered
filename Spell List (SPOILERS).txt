@@ -1,0 +1,45 @@
+Name		Level	Type	Cost	Power	Note						
+						Additional Notes: Dark = Shadow, Debuff / Norm = Non Elemental / Thun = Thunder / Ligt = Light
+
+Luigi
+Jump		[1]	Norm	3	20	Ignore Magic Defense	Increases in power every 2 times used up to an extra 250 damage (This increase applies to several spells in game!)
+Tattle		[3]	Help	0	---	See important information about enemies, such as their drops, and weaknesses (Doesn't use up your turn)
+Flame Wall	[5]	Fire	5	40	Multi Target; Poisons Foes
+Zap Jump	[10]	Thun	8	60	Up to 30 jumps (31 if you include initial); Gets stronger the more Jump is used
+Ice Pounce	[18]	Ice	8	100	Up to 20 jumps (21 if you include initial); Sleeps Foes; Gets stronger the more Jump is used
+Galaxy Orb	[20]	Ligt	8	255	-
+
+Daisy
+Group Hug	[1]	Heal	8	20	Heal All Allies + Status Effects; Gets stronger the more Jump is used
+Wishing Star	[1]	Heal	8	---	Revive 1 Ally; Brings them back with a magic attack and attack boost
+Tattle		[1]	Help	0	---	See important information about enemies, such as their drops, and weaknesses (Doesn't use up your turn)
+Light Orb	[10]	Ligt	4	70	-
+Therapy 	[20]	Heal	4	255	Gets stronger the more Jump is used; More healing power, heals statuses, only heals 1 Ally
+Barrier 	[25]	Buff	10	---	Multi Target; Boosts party's Defense and Magic Defense
+
+Bowser
+Fire Breath	[1]	Fire	2	85	Poisons Foes; Gets stronger the more Jump is used
+Tattle		[10]	Help	0	---	See important information about enemies, such as their drops, and weaknesses (Doesn't use up your turn)
+Bowser Crush	[13]	Norm	6	85	Multi Target; Pierces Defense; Gets stronger the more Jump is used
+Solar Roar	[15]	Fire	8	100	Multi Target; Poisons Foes
+Polar Boo	[20]	Ice	8	150	Multi Target; Sleeps Foes
+Bowser Bomb	[25]	Fire	8	255	Poisons Foes; Gets stronger the more Jump is used
+
+Geno
+Geno Beam	[1]	Ligt	4	70	-
+Geno Boost	[8]	Buff	8	---	Attack/Magic Attack Boost + Defense/Magic Defense if timed
+Tattle		[10]	Help	0	---	See important information about enemies, such as their drops, and weaknesses (Doesn't use up your turn)
+Geno Whirl	[18]	Norm	6	255	Ignores Magic Defense; Gets stronger the more Jump is used; Inflicts Poison
+Geno Flurry	[20]	Ice	6	100	Multi Target; Sleeps Foes
+Geno Shine	[25]	Buff	31	---	Single Target; Gives one ally Invincible status
+
+Mallow
+Shocker		[1]	Thun	4	40	Gets stronger the more Jump is used; Inflicts Fear
+HP Rain		[4]	Heal	2	25	Heal 1 Ally + Status Effects	
+Tattle  	[6]	Help	0	---	See important information about enemies, such as their drops, and weaknesses (Doesn't use up your turn)
+Frost Aura	[10]	Ice	5	50	Multi Target; Sleeps Foes
+Thunderbolt	[14]	Thun	6	100	Gets stronger the more jump is used; Multi Target; Inflicts Fear
+Happy Flower	[20]	Heal	0	---	Restores 20 FP per use
+
+Item
+Dark Matter	[NA]	Dark	-	---	Debuffs all Foes, deals 255 damage, infinite use item

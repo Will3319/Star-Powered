@@ -1,0 +1,266 @@
+-----------------------------------------Main Game Changes------------------------------------------
+
+-Mario is now Luigi, Peach is now Daisy.
+-New songs remixed by ( https://twitch.tv/cousincatnip ) CousinCatnip, Will319, and DarkKefka!
+-New Armor, Accessories, and spells for Mallow, Luigi, Bowser, Daisy and Geno.
+
+--------------------------------------Version 7 Update Changes--------------------------------------
+
+
+-V7: 10k downloads special release
+
+-Rebranded Maximum update to be named V7
+-Fixed party member underwater and poison color palettes to not look trashy and gross
+-Fixed typo in intro sequence (Additonal, which is now Additional)
+-Replaced Face Shrine theme in Frost Temple with a much more relaxed, yet spooky version
+-Made the Treasure Chest Hunt reward Hyper Boost
+-Nerfed True Boss Rush's Final Fight
+-Removed Hyper Boost from Lucca's Shop
+-Moved Rose Way Save Block up higher on the map, to fix a softlock
+-Refined dialogue from the end of the Smithy fight
+-Made Lucca's Shop cheaper to buy from
+-Made Menu, Description and Dialogue Icons more clear on what means what
+-Adjusted Level Up Bonuses to always give you the higher value first, rather than it was before, which was setting the higher one
+as an option, with the smaller one being the one given first, this should make every party member more viable
+-Fixed issue where if a bomb attack missed, the MISS graphic would get messed up
+-Nerfed several enemy formations that contained too many enemies with too many statuses
+-Changed Piranha Plant Graphics
+-Fixed Shy Guy Graphics
+-Fixed Tiling in Bowser's Keep's Second Room
+-Fixed Tiling in Mushroom Kingdom Outside Area
+-Fixed Tiling in Marrymore Outside Area
+-Made Bird Shop in Mario & Luigi's house more visible
+-Shadow Queen sequence is now better presented
+-New Final Boss after the True Boss Rush, for those that want a proper challenge out of the hack
+-Adjusted numerous spells and attacks to be less janky
+-Changed boss in Frost Temple 
+-Added Frost Temple boss to the Boss Rush
+-Fixed shading on Mallow
+-Made Hidden NPC Dialogue in Rose Town more useful
+-Changed Dry Bones Graphics
+-Added a Jukebox NPC to Mario's Pad after you beat the True Boss Rush so players can listen to the custom music at anytime
+-Made Sunken Ship's Password harder to figure out
+-Adjusted Smithy's First and Second Phase graphics
+-Adjusted Knife Guy and Grate Guy's graphics
+-Nerfed Dark Matter item
+-Nerfed Hyper Boost
+-Made Dark Matter item more akin to a spell
+-Made Bob-omb Battlefield remix more pitch accurate to Super Mario 64
+-Made Subcon music quieter
+-Made Shadow Queen's theme more accurate to the Paper Mario The Thousand Year Door Switch Remake
+-Made Land's End Desert Theme quieter
+-Reimplemented the Sea Ambience
+-Made Sunken Ship darker
+-New Color Palette for Daisy
+-Added quicker travel between several areas
+-Reimplemented the Grate Guy Casino theme
+-Single Target Spells can now be blocked
+
+
+---------------------------------------------HOTFIXES---------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7.0.1
+
+-Fixed Smithmageddon Softlock
+-Slightly nerfed Magus's defense stats
+-Significantly lowered Smithmageddon's HP from almost 100,000 down to 60,000
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7.0.2
+
+-Removed Defense and Magic Defense buffs from Barrier Shift
+-Better punctuation in the intro sequence
+-Jumpin' Chewy enemy now has the proper tattle
+-Koopa Wand is now Koopa Hammer
+-Adjusted a few ally weapons timings
+-Made Geno's Star Gun and Unarmed less jank to time
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7.0.3
+
+-Significantly nerfed HP values of MANY post-game bosses, so they aren't just damage sponges
+-Added better clarity to the double weapon timing mechanic, as well as the single targeting spells being blockable change
+-Added a fly away animation for Phanto enemies
+-Made Barbarcicia less monotonous to fight
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7.1.0
+
+-Fixed Luigi's color palette reverting to his 2.5 colors after losing the Dodo Minigame, and during the Valentina Throne Room scene
+-Fixed Luigi facing the wrong direction when going from Land's End 3rd room to the 2nd room
+-Added Dash Attack to the Pinwheel and Painwheel enemies
+-Fixed Exor's Hilt HP value to not be an absolutely massive "2"
+-Added Separate Hard Mode Patch
+-Finally was able to remove the M sign from that one house in Rose Town
+-Reworked the Palace of Shadow's first room so that instead of fighting 8 enemies with randomly chosen formations, you now only fight 3 enemies, with 3 different set formations
+-Rogue Star now lists the proper item in its tattle
+-Removed Green Star Accessory, replaced it with the Vanish Cap, and put that in Kamek's Shop
+-Jinx now sheds more light onto the concept of stuff being saved until Post Game if you talk to him before beating Smithy
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7.1.1
+
+-Fixed the layering of Smithy's Smelter's.... Juice? Magma? Molten Iron? What even is that stuff? Whatever, fixed that red stuff it spits out.
+-Optimized code of the newly blockable single target spells, to make them all consistent
+-Replaced Koopa Hammer with Steel Claw, because Koopa Hammer was causing stuff to break
+-Revamped how the Smithy fight ends, to make it more clear what you are meant to do
+-Fixed Rogue Star's Tattle displaying the wrong item
+-Nerfed Dark Boo and Dark Atomic Boo's defense stats, and made them not immune to physical attacks
+-Adjusted Mushroom Kingdom's Hidden NPC dialogue slightly
+-Made Luigi sleep in his own bed, instead of Mario's
+-Made it say you got the Electro Ring when you get it from Toad in Rose Town
+-Made it say you got the Sun Ring when you get it from Toadsworth in Mushroom Kingdom
+-Made it say you got the Frost Ring when you get it from the Elder in Seaside Town
+-Made it say you got the Light Ring when you get it from the Guard in Nimbus Land
+-Buffed Smithy's phase 1 attack stat
+-Fixed Hard Mode's FP Drain
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7.1.2
+
+-Fixed Title Screen Logo overflow
+-Fixed Star Pieces Overworld Menu Graphics
+-Fixed Luigi's World Map Graphics
+-Nerfed Intro Bowser's Fire Spell
+-Nerfed Bowser's Keep Intro Enemies
+-Nerfed The Leviathan
+-Adjusted the music within the Bonus Patch.
+-Removed Hard Mode, as it is too buggy to be worth keeping
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7.1.3
+
+-FIXED MAJOR SAVE FILE HARD LOCK IF YOU LEFT AND REENTERED THE AXEM RANGERS ROOM TO GO SAVE AFTER THEIR CUTSCENE PLAYS BUT BEFORE DEFEATING THEM.
+-Nerfed Smithy's HP and turn count
+-Made Smithy's Body not attack during The Countdown
+-Nerfed The Leviathan again
+-Nerfed Lava Cave enemies
+-New World Map song
+-Adjusted Daisy's Poison color palette
+-Adjusted the Secret Pochita animation hidden at the very start of the game to spin smoother
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7.1.4
+
+-Adjusted Lava Caves theme
+-New Palace of Shadow Song
+-Made Toad Town Back Alley's song not fade in and out weirdly between room loads
+-Made all Lava Caves enemies weak to Sleep, aka Freeze, to hopefully allow for an easier time in there
+-Adjusted Elder Yoshi's graphics to be a mix of Boshi and the Fat Baby Yoshi, it is still Elder Yoshi
+-Fixed a detrimental typo in Wallet Toad's dialogue after saving Daisy
+-Removed Mushroom Bomb from Ninja enemy
+-Despite the mushroom status not existing anymore, Spore Ring still exists for the purpose of it being kind of funny
+-Fixed the primary readme not listing the right version
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7.1.5
+
+-Adjusted Lava Caves theme yet again, as well as the Boss Rush Wave 1 Theme
+-Hopefully fixed weapon timed hits being strange sometimes
+-Fixed Terra's color palettes
+-Made Blue Dragon into FF4 Leviathan, like it was always meant to be
+-Added 17 (yes, seriously) new fights to the Bonus Patch
+-Added a difficulty option, Quarter Blocking Mode, where blocking perfectly reduces damage taken to 1/4th of the total, instead of simply 0
+-Adjusted Dancing Mad yet again
+-Gave Guardian its V7.0.3 Hard Mode AI Script
+-Fixed a softlock in the Jinx Rematch
+-Made Geruta Wolves in the Lava Caves drop Hero Drinks instead of Royal Syrups
+-Made Whacka the joke fight he was always meant to be, except for in the No Perfect Blocks Patch, where he is as he was in previous versions
+-Made running away from encounters OBSCENELY FAST
+-Made allies fall down faster when they run out of HP
+-Changed Jumpin' Chewy miniboss to Icy Para Goomba for variety sake
+-Changed Vivian in Monstro Town's sprite
+-Gave Pauline in Marrymore an actual sprite
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7.1.5.1
+
+-Made Chaos Star actually die
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7.2.0 DX, Directors Cut
+
+-Better color palettes for all 5 party members
+-Better battle HUD, inspired by SMB3 All Stars
+-Fixed the hitboxes of the Land's End yellow blocks (don't know how to describe them, second room)
+-Added a shadow to the cloud at the entrance of the Lands End Secret Cave to better tell where it is
+-Smithy first form can use (weak) magic now
+-The amount of dialogue in the Smithy fight has been reduced
+-Replaced Atomic Boo with King Boo (Sprite by RP-Genocraft)
+-Mushroom Way Save point path is more curved graphically
+-Bandit's Way 2nd room secondary path is slightly cleaner looking now
+-Quite a few spells have been buffed, check spells readme for more info
+-2D 3D Culex has new colors for both forms
+-Shadow Queen Segment has been significantly altered graphically
+-Shadow Queen herself has been buffed considerably, especially her boss rush version
+-Flare Star is now Flame Wall
+-Thunderbolt, and Bolt have their proper vanilla colors now
+-Happy Flower heals 20 FP now
+-Mario's wish on Star Hill is different
+-Wario and Waluigi in Monstro Town
+-You can run away from the Terrapins in the intro now
+-Chaos Star Room looks completely different now
+-Chaos Star has a new look
+-Four Fiends in True Boss Rush are different, particularly the first 3
+-Croco should properly run along the extra path added to Mushroom Kingdom after talking to Toad
+-Scarmiglione, Anti Shy Away, Johnny, and giving Gold Daisy to the Rose Town Gardener should all give a post-game weapon now. (Shy Away and Gardener should give the same one.)
+-Most undead and pure fire enemies have a weakness to Purify Water now
+-Nimbus Land Bus has its full graphic now
+-Yo'ster Isle weird collision should be fixed
+-Zemus and Zeromus have been replaced
+-Schala has been replaced
+-Re:Blade has been replaced
+-Big Bertha has been replaced
+-New path through Bandit's Way second room
+-New path through Land's end to get to the desert
+-New songs, some songs replaced
+-Lava Caves is now Thunder Pipes
+-Sage Stick now has a proper look for it
+-Stella 023 now has a proper look for it (Thank you AnAxemRanger!)
+-Quarter Block patch has been made into the main patch
+-Nerfed many Boss Rush fights
+-A multitude of Vanilla color palette restorations
+-Bean Valley / Land's End / Monstro Town are back to vanilla
+-Axem Red, Bowyer, Mack, and Yaridovich V2 Fight has been changed quite a bit
+-Boss Rush has a couple of the missing fights added to it
+-Tadpole Pond Tutoria Bay is now the room you start in when you enter Tadpole Pond
+-After beating Smithy, the Tadpole Pond save point will display the proper area name
+-Credits have been placed after Whacka to help with pacing
+-Mokura is back
+-Gamer Toad is back
+-Implemented Spamton SOMEWHERE in Monstro Town (Thank you, TheRipperAndCo)
+-Music Variety in Boss Rush is better, to help prevent songs from getting annoying
+-3 new Bean items, a Power Bean, Speed Bean, and Defense Bean, these increase a characters stats by 1 per Bean! There are only a few of these in the entire game, and you cannot buy them, nor get them from random enemy drops! Only chests, side quests and bosses! Use them wisely!
+-Several code optimizations
+-4 New equips for Bowser, elemental claw attachments for post-game that allow him to select from any of the 4 elements to use for his physical attack
+-Hammer Bro has more HP to enforce "The Defending Charge Attacks Tutorial"
+-Croco has a unique boss theme
+-Pause Menu has rearranged selections to better sort usefulness (Swap/Switch remains where it was due to hard coded-ness)
+-Both Box Radar 1 and 2 have been renamed (Signal Ring and Echo Signal Ring {E.SignalRing})
+-Shadow has a proper underwater color palette, as well as an out of water color palette
+-Rose Town Inn's new room will properly tell you its locked before you beat Bowyer
+-New Sprite for Toadsworth made by RP-Genocraft
+-Fixed Tiling in Star Hill
+-Fixed Tiling in Mushroom Kingdom Outside Area
+-Fixed Tiling in Marrymore Outside Area
+-Fixed Tiling in Rose Town Outside Area
+-Fixed Tiling in Mushroom Way Room 2
+-Fixed Tiling in Bandit's Way Room 2
+-Fixed Tiling in Monstro Town's Main Area
+-Fixed Tiling in Monstro Town's Entrance
+-Rogue Star / Ztar has been replaced with a Shroob
+-Axem Blue has been reverted back to Axem Green
+-Fixed Sargent Flutter's Troopas being green (they are now properly red)
+-Text pops up and tells you what you got, whenever you get any item now
+-Gardener tells you he'll buy rare flowers too
+-Jade Raven has an actual use now and isn't just worse Regal Crown
+-In vanilla SMRPG, the top part of the Nimbus Land Bus (above the logo on the spoiler of the bus) was cut off, and wasn't displayed, because the developers just kind of forgot to put it there. I restored it.
+-Made Red Chomp's block be grey instead of also red
+-Nerfed Golbez in Bonus Patch
+-Nerfed CPU in Bonus Patch
+-Adjusted Poison Toad's color palette
+-New song for game load in Bonus Patch
+-New song for file select in Bonus Patch
+-New song for boss select in Bonus Patch
+-Made it possible to save in Bonus Patch, to help speed up the process of doing all the content in it
+-Made a patch to view the Credits Parade

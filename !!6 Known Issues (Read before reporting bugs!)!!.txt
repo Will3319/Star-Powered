@@ -1,0 +1,19 @@
+|------------------------------------------------------------------------------------------------------------------------------|
+|1: Save state frequently or Save on second slot or lower to avoid saves being wiped.					       |
+|Comment: Unsure of the exact cause of this.										       |
+|------------------------------------------------------------------------------------------------------------------------------|
+|2: If you revisit Midas River via the Moleville Basket, the tunnel with the K9 and Sky Troopas will be glitched visually.     |  
+|Comment: Genuinely, HOW is this a thing???										       |
+|------------------------------------------------------------------------------------------------------------------------------|
+|3: In the Factory, if you take the warps, but then proceed further into the Factory manually, one of the rooms will be janky. |
+|Comment: Does not crash the game as far as I am aware.									       |
+|------------------------------------------------------------------------------------------------------------------------------|
+|4: Some visuals may be strange in certain places.									       |
+|Comment: Too hard to pinpoint all of them.										       |
+|------------------------------------------------------------------------------------------------------------------------------|
+|5: Smithy V2 has no death animation.										               |
+|Comment: Not a bug. This is intentional.										       |
+|------------------------------------------------------------------------------------------------------------------------------|
+|6: In the bonus patch, Kefka second phase messes up the battle numbers palettes if you heal.				       |
+|Comment: This is due to the number of unique monsters in the fight. Unavoidable issue.					       |
+|------------------------------------------------------------------------------------------------------------------------------|
